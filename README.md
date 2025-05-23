@@ -13,10 +13,16 @@ Ao final, a pontuação total é exibida com base nas respostas corretas.
 
 ## 🛠️ Conceitos Utilizados
 
-- Arrays
-- Laços de repetição (`for`)
-- Condicionais (`if`, `switch`)
-- Variáveis e contadores
+- Struct
+- Vetores
+- Ponteiros
+- Laços (for, while)
+- Condicionais (if, switch)
+- Funções
+- Manipulação de caracteres
+- Aleatoriedade (rand, srand)
+- Interface com terminal (cli-lib)
+- Controle de tempo (timerTimeOver)
 
 ## 👨‍💻 Participantes
 
