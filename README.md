@@ -6,7 +6,7 @@ Ao final, a pontuação total é exibida com base nas respostas corretas.
 
 ## 💡 Funcionalidades
 
-- Perguntas com 4 alternativas (A, B, C ou D)
+- Perguntas com 3 alternativas (A, B ou c)
 - Verificação de respostas corretas
 - Contador de pontuação
 - Interface em texto no terminal
